@@ -1,9 +1,10 @@
+This guide uses ubuntu version 24.04 version with kubeadm 1.29.0 which might be a stable version at this time we have 1.32.0 is the latest version of the kubeadm
 # Kubeadm Installation Guide
 
 This guide outlines the steps needed to set up a Kubernetes cluster using kubeadm.
 
 ## Pre-requisites:
-* Ubuntu OS (Xenial or later)
+* Ubuntu OS (Xenial or later) = 24.04
 * sudo privileges
 * AWS Account
 * Passion to Learn
